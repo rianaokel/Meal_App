@@ -10,7 +10,7 @@ class AppRating {
         remindDays: 0,
         remindLaunches: 1,
         appStoreIdentifier: "1223422",
-        googlePlayIdentifier: "com.hard75daychallenge.fitnesschallenge");
+        googlePlayIdentifier: "com.lyrebirdstudio.toonart");
 
 
     rateMyApp.init().then(

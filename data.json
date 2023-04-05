@@ -1,8 +1,5 @@
 {
-   "data":[
-      {
-         "isAppDead":"true",
-         "apiKey1":"API key 1"
-      }
-   ]
+  "name": "John Doe",
+  "age": 30,
+  "email": "johndoe@example.com"
 }
